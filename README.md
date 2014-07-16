@@ -1,4 +1,4 @@
-Poisson_image_editing
+Poissn Image Editing
 =====================
 
 Seamless editing based on solving Poisson equations
